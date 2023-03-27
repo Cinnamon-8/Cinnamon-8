@@ -24,9 +24,7 @@
 </p>
 
 
+
 [![Cinnamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinnamon-8&count_private=true&show_icons=true&theme=radical)](https://github.com/Cinnamon-8)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinnamon-8&show_icons=true&locale=en" alt="cinnamon-8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cinnamon-8&" alt="cinnamon-8" /></p>
