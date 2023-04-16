@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++,GameDev**
 
-- 👨‍💻 All of my projects are available at [https://replit.com/@CwCinnamon27](https://replit.com/@CwCinnamon27)
+- 👨‍💻 All of my projects are available at [Replit](https://replit.com/@CwCinnamon27)
 
 - 💬 Ask me about **C**
 
