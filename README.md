@@ -7,11 +7,10 @@
 
 - 🔭 I’m currently working on **Small Projects**
 
-- 🌱 I’m currently learning **C++,GameDev**
+- 🌱 I’m currently learning **C Lang**
 
 - 👨‍💻 All of my projects are available at [Replit](https://replit.com/@CwCinnamon27)
 
-- 💬 Ask me about **C**
 
 - ⚡ Fun fact **Passionate about coding and constantly learning. Always up for a good challenge and love building new things with code.**
 
