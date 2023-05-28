@@ -1,27 +1,35 @@
-<h1 align="center">Hi 👋, I'm Cinnamon</h1>
-<h3 align="center">A passionate Programmer</h3>
-<img align="right" alt="coding" width= "100" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cinnamon-8&label=Profile%20views&color=0e75b6&style=flat" alt="cinnamon-8" /> </p>
+<h1 align="center">Hi, I'm Cinnamon-8</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Small Projects**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cinnamon-8&label=Profile%20views&color=00ffff&style=flat" alt="cinnamon-8" /> </p>
 
-- 🌱 I’m currently learning **C Lang**
+- 🔭 I’m currently working on [TimeHack](https://github.com/Cinnamon-8/timetable-generator)
 
+- 🌱 I’m currently learning **Website development**
+
+- 🤝 I’m looking for help with [frontend development](https://github.com/Cinnamon-8/timetable-generator)
 - 👨‍💻 All of my projects are available at [Replit](https://replit.com/@CwCinnamon27)
 
-
-- ⚡ Fun fact **Passionate about coding and constantly learning. Always up for a good challenge and love building new things with code.**
+- ⚡ Fun fact **I use Vim**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://youtube.com/@CodeWithCinnamon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithcinnamon" height="30" width="40" /></a>
-<a href="https://discord.com/users/758698747751825450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cinnamon#2377" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/c/codewithcinnamon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithcinnamon" height="30" width="40" /></a>
+
+<a href="https://discord.gg/https://discord.com/users/518803886459322379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/518803886459322379" height="30" width="40" /></a>
+
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinnamon-8&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="cinnamon-8" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinnamon-8&show_icons=true&theme=synthwave&locale=en" alt="cinnamon-8" /></p>
 
 
-[![Cinnamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinnamon-8&count_private=true&show_icons=true&theme=radical)](https://github.com/Cinnamon-8)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cinnamon-8&" alt="cinnamon-8" /></p>
