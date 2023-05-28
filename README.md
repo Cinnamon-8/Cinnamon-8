@@ -2,7 +2,10 @@
 
 <h3 align="center">A passionate developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinnamon-8&label=Profile%20views&color=00ffff&style=flat" alt="cinnamon-8" /> </p>
+
+<img src="https://discord-readme-badge.vercel.app/api?id=518803886459322379" alt="Discord"/>
 
 - 🔭 I’m currently working on [TimeHack](https://github.com/Cinnamon-8/timetable-generator)
 
